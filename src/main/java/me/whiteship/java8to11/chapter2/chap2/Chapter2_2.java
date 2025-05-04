@@ -5,7 +5,7 @@ import java.util.function.Function;
 import java.util.function.Predicate;
 import java.util.function.Supplier;
 import java.util.function.UnaryOperator;
-import me.whiteship.java8to11.RunSomething;
+import me.whiteship.java8to11.chapter2.RunSomething;
 
 public class Chapter2_2 {
 
